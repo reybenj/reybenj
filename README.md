@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning HTML, CSS and PHP.
 - 💞️ I’m looking to collaborate with anyone.
-- 📫 How to reach me: reybenj007@gmail.com
+- 📫 Reach me through my gmail account: reybenj007@gmail.com
 
 <!---
 reybenj/reybenj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
